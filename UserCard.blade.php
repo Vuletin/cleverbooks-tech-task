@@ -16,7 +16,7 @@
             {{ $user->email }}
         </p>
 
-        @if($user->role === 'admin')
+        @if(isset($user->role) && $user->role === 'admin')
             <span class="inline-block px-2 py-1 text-xs font-bold text-white bg-red-500 rounded">
                 Admin
             </span>
