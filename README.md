@@ -1,8 +1,8 @@
-📘 CleverBooks – Technical Screening Task
+## 📘 CleverBooks – Technical Screening Task
 
 This repository contains my responses to the CleverBooks technical screening task, including written answers and a sample Laravel Blade component.
 
-📁 Repository Contents
+## 📁 Repository Contents
 
 UserCard.blade.php
 A reusable Laravel Blade component that displays user information using a hybrid styling approach:
@@ -21,7 +21,7 @@ Coexistence of Bootstrap and TailwindCSS in a PostCSS pipeline
 
 SQL join differences and indexing considerations
 
-🧩 Notes & Assumptions
+## 🧩 Notes & Assumptions
 
 In a real Laravel application, the Blade component would be located at:
 resources/views/components/user-card.blade.php
@@ -30,6 +30,6 @@ The code is intended to demonstrate structure, conventions, and understanding of
 
 No full Laravel environment was required for this task.
 
-👤 Author
+## 👤 Author
 
 Sava
